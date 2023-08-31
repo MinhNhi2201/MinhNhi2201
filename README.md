@@ -6,7 +6,7 @@
 <h3 align="left" >About me</h3>
 
 
-- 🌱 I’m currently learning on **University of Information Technology**
+- 🌱 I graduated from **University of Information Technology**
 
 - 📫 How to reach me **nhipm2201@gmail.com**
 
