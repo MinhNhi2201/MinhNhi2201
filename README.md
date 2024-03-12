@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Nhi</h1>
-<h3 align="center">An Intern Frontend </h3>
+<h3 align="center">A Frontend Dev </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minhnhi2201&label=Profile%20views&color=0e75b6&style=flat" alt="minhnhi2201" /> </p>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
